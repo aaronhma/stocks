@@ -1,0 +1,7 @@
+# Editor settings
+.vscode
+
+# Build cache
+build
+*.pyc
+__pycache__
